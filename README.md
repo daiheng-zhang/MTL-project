@@ -16,4 +16,6 @@ python main.py --weighting EW --arch HPS --dataset_path PATH --gpu_id GPU_ID --t
 ```
 Here the --weighting EW can also be MGDA or Gradnorm.
 
+The reproduced result for NYUv2 dataset can be refered here: https://drive.google.com/drive/folders/1yVBgncPqMyhwFOr4A0buM6zhOxW_wJYe?usp=sharing.
+
 The code is mostly based on https://github.com/median-research-group/LibMTL.
