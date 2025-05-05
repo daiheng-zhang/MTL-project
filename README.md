@@ -15,3 +15,5 @@ For training QM9 dataset, we can use:
 python main.py --weighting EW --arch HPS --dataset_path PATH --gpu_id GPU_ID --target TARGET --mode train --save_path PATH
 ```
 Here the --weighting EW can also be MGDA or Gradnorm.
+
+The code is mostly based on https://github.com/median-research-group/LibMTL.
